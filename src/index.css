@@ -147,3 +147,7 @@ textarea:focus {
   /* Chrome/Opera/Safari */
   font-size: 15px;
 }
+
+input {
+  width: 100%;
+}
